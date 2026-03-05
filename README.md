@@ -21,10 +21,9 @@
 
 * **Bahasa Pemrograman:** Python 3.8+
 * **Manipulasi Data:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn, XGBoost / LightGBM
+* **Machine Learning:** Scikit-Learn
 * **Visualisasi:** Matplotlib, Seaborn, Plotly
-* **Lainnya:** Jupyter Notebook, Scrapy/BeautifulSoup (untuk *scraping* data)
+* **Lainnya:** Scrapy(untuk *scraping* data)
 
 ---
 
-## 📂 Struktur Repositori
